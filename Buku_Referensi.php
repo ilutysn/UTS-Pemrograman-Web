@@ -12,7 +12,7 @@ $buku = new Buku_Referensi(1, "121", "Menguasai OOP PHP", "Computer Science", "I
 //display info buku referensi
 echo "\nDisplay Info Buku Referensi";
 echo "\nID: " .$buku->getIdBuku();
-echo "\nISSN: " .$buku->getISBN();
+echo "\nISBN: " .$buku->getISBN();
 echo "\nJudul: " .$buku->getJudulBuku();
 echo "\nSubjek: " .$buku->getSubjekBuku();
 echo "\nPenerbit: " .$buku->getPenerbit();
