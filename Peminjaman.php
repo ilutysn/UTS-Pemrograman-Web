@@ -1,6 +1,6 @@
 <?php
 
-//Class Peminjaman merupakan transaksi yang ada di perpustakaan,
+//Class Peminjaman merupakan transaksi yang ada di perpustakaan.
 
 class Peminjaman
 {
